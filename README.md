@@ -26,5 +26,5 @@
 
 ### 📊 Execution Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skipp3t6&show_icons=true&theme=blood&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=ffffff" />
+  <img src="![Stats](https://github-readme-stats.vercel.app/api?username=skipp3t6&show_icons=true&theme=blood&hide_border=true)" />
 </p>
