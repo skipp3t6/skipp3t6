@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠 Operational Arsenal
+### ⛓️‍💥  Operational Arsenal
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arch,c,cpp,python,bash,react,ts,nodejs,postgres,docker&theme=dark" />
 </p>
@@ -24,7 +24,7 @@
   <img src="https://github.com/user-attachments/assets/b0e5157e-0e92-479c-a46f-e9e33e447d1a" width="300" alt="A Deo Omnia Vita Mea" />
 </p>
 
-### 📊 Execution Metrics
+### >< Execution Metrics
 <p align="center">
   <img src="![Stats](https://github-readme-stats.vercel.app/api?username=skipp3t6&show_icons=true&theme=blood&hide_border=true)" />
 </p>
