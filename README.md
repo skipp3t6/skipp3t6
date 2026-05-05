@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=>+ZERONx_Terminal_Online;>+Full-Stack+%7C+AI+Builder;>+Arch+Linux+Enjoyer;>+Building+Omega+OS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=ID:+ZERONx;Builder,+Dev,+Programmer;Tools+Automation;Building+Virus+For+Fun" alt="Typing SVG" />
 </div>
 
 ---
 
-### Tech Stack & Arsenal
+### Arsenal Técnico
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,arch,python,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arch,c,cpp,python,bash,react,ts&theme=dark" />
 </p>
 
-### System Status
-> "Less noise, more raw logic."
+### Protocol Logs
+> "The end justifies the means."
 
-- Main Project: Developing Omega Builder — Autonomous IDE orchestrated by local multi-agent AI.
-- Lab: Extracting max performance from local LLMs, multi-agent architectures, and heavy automation.
-- Daily Driver: Arch Linux (CachyOS) + Hyprland.
+- **Objective:** Developing the **Omega Builder** ecosystem — high-level autonomous orchestration.
+- **Activity:** Low-level scripting, malware architecture, and custom system automation.
+- **Environment:** Arch Linux (CachyOS) | Hyprland | Toxic-Red Config.
 
-### Activity Logs
+### Execution Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skipp3t6&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=B300FF&text_color=A3B3BC" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skipp3t6&show_icons=true&theme=blood&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0D1117" />
 </p>
